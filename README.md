@@ -9,5 +9,5 @@ Packagers:
 ----------
 
 - note the ad-hoc build system
-- manually copy blake2.s, libblake2.a and libblake2.so.\* into your system
+- manually copy blake2.h, libblake2.a and libblake2.so.\* into your system
   locations
