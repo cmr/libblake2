@@ -1,0 +1,8 @@
+*.swp
+*.so*
+*.o
+*.a
+actual_s
+actual_d
+test_d
+test_s
