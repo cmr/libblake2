@@ -1,3 +1,4 @@
+**NOTE: obsoleted by https://blake2.net/libb2-0.96.tar.gz**
 libblake2
 =========
 
